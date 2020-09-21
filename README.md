@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align="left" src="https://raw.githubusercontent.com/ollieread/ollieread/main/small-me-idle_small.gif"> 
 
-<!--
-**ollieread/ollieread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm Ollie Read
 
-Here are some ideas to get you started:
+<br clear="left">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I do a bunch of stuff with PHP & Laravel, which I will endevaour to update this readme with when I can, but right now I'm working on a course for <a href="https://multitenancy.test" target="_blank">Multitenancy with Laravel</a>.
+
+<a href="https://multitenancy.test" target="_blank">
+    <p align="center">
+        <img src="https://raw.githubusercontent.com/ollieread/ollieread/main/mwl-banner.png">
+    </p>
+</a>
