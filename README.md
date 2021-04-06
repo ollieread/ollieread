@@ -13,4 +13,4 @@ I do a bunch of stuff with PHP & Laravel, which I will endevaour to update this 
 </a>
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=ollieread&show_icons=true&count_private=true&include_all_commits=true">
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ollieread&count_private=true&include_all_commits=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ollieread&count_private=true&include_all_commits=true&layout=compact">
