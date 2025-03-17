@@ -13,19 +13,19 @@ Whether it's through my open-source work, writing, or as a mentor/consultant.</p
 
 <p align="center">
 <a href="https://sprout.ollieread.com" title="Sprout - Multitenancy for Laravel">
-<img src="icons/sprout-logo-dark-rounded-square@2x.png" width="123px">
+<img src="icons/sprout-logo-dark-rounded-square@2x.png" width="240px">
 </a>
 <br/>
 <a href="https://github.com/concise-laravel" title="Concise - Lightweight ORM for Laravel">
-<img src="icons/concise-logo-dark-bg-rounded@2x.png" width="123px">
+<img src="icons/concise-logo-dark-bg-rounded@2x.png" width="240px">
 </a>
 <br/>
 <a href="https://github.com/toastphp" title="Toast - PHP Framework">
-<img src="icons/toast-logo-dark-rounded-square@2x.png" width="123px">
+<img src="icons/toast-logo-dark-rounded-square@2x.png" width="240px">
 </a>
 <br/>
 <a href="https://github.com/articulate-laravel" title="Articulate - Feature-rich ORM for Laravel">
-<img src="icons/articulate-logo-square-rounded@2x.png" width="123px">
+<img src="icons/articulate-logo-square-rounded@2x.png" width="240px">
 </a>
 </p>
 
