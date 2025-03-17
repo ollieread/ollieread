@@ -1,18 +1,36 @@
-<img align="left" src="https://raw.githubusercontent.com/ollieread/ollieread/main/small-me-idle_small.gif"> 
+<h2 align="center">Hi there, I'm</h2>
 
-## Hi there, I'm Ollie Read
-
-<br clear="left">
-
-I do a bunch of stuff with PHP & Laravel, which I will endevaour to update this readme with when I can!
-
-### Here are some stats
-
-<p align="center"> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ollieread&show_icons=true&count_private=true&include_all_commits=true">
-</p>
-<p align="center"> 
-    <img align="center"' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ollieread&count_private=true&include_all_commits=true&layout=compact">
+<p align="center">
+<img src="logos/ollieread-logo-dark-rounded@2x.png" width="360px">
 </p>
 
-<a rel="nofollow me" href="https://phpc.social/@ollieread">Mastodon</a>
+<h3 align="center">and I'm a software architect and developer educator</h3>
+
+<p align="center">I love building things with Laravel and PHP, tackling tricky problems, and helping other developers.
+Whether it's through my open-source work, writing, or as a mentor/consultant.</p>
+
+<h3 align="center">I'm working on</h3>
+
+<p align="center">
+<a href="https://sprout.ollieread.com" title="Sprout - Multitenancy for Laravel">
+<img src="icons/sprout-icon-dark-circle@2x.png" width="60px">
+</a>
+<a href="https://github.com/concise-laravel" title="Concise - Lightweight ORM for Laravel">
+<img src="icons/concise-icon-dark-bg-circle@2x.png" width="60px">
+</a>
+<a href="https://github.com/toastphp" title="Toast - PHP Framework">
+<img src="icons/toast-icon-dark-circle@2x.png" width="60px">
+</a>
+<a href="https://github.com/articulate-laravel" title="Articulate - Feature-rich ORM for Laravel">
+<img src="icons/articulate-icon-circle@2x.png" width="60px">
+</a>
+</p>
+
+<h3 align="center">You can also find me on</h3>
+
+<p align="center">
+    <a href="https://ollieread.com">My Website</a>
+    | <a href="https://x.com/ollieread.com">X (Formerly Twitter)</a>
+    | <a href="https://bsky.app/profile/ollieread.com">BlueSky</a>
+    | <a href="https://www.linkedin.com/in/ollieread/">LinkedIn</a>
+</p>
